@@ -9,3 +9,7 @@ It contains 1M record and 15 column
 
 'age','workclass','fnlwgt','education','education_num','marital_status','occupation','relationship','race','gender','capital_gain','capital_loss','hours_per_week','native_country','salary'
 
+
+
+<img width="1255" alt="Picture1 9 11 09 AM" src="https://user-images.githubusercontent.com/123067862/213412974-662d6ad2-555e-46a7-ad02-8fcc34a202f3.png">
+Final Schema
